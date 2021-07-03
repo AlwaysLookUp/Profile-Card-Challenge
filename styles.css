@@ -2,7 +2,7 @@ body {
     background: hsl(185, 75%, 39%);
     font-family: 'Kumbh Sans', sans-serif;
     background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
-    background-position: left 0em bottom 20em, right 0em top 22em;
+    background-position: right 5em bottom 20em, right 0em top 22em;
     background-repeat: no-repeat, no-repeat;
 }
 
